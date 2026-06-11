@@ -1,17 +1,1 @@
-ITENS QUE AINDA PRECISAM SER FEITOS POR VOCÊ:
 
-1. Configurar MySQL/PostgreSQL real no persistence.xml.
-2. Implementar CRUD completo (Create, Read, Update, Delete) para:
-   - Usuario
-   - Livro
-   - Emprestimo
-3. Implementar telas JSP de listagem e edição.
-4. Criar relacionamentos JPA:
-   - Emprestimo -> Usuario
-   - Emprestimo -> Livro
-5. Calcular multa de R$10 quando houver atraso.
-6. Criar filtros de segurança e validações.
-7. Adicionar screenshots para evidências.
-8. Publicar no GitHub com histórico de commits.
-9. Testes JUnit completos.
-10. Ajustar web.xml e mapeamentos dos servlets.
