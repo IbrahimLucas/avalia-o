@@ -1,0 +1,10 @@
+
+Itens adicionados:
+- README
+- Estrutura de testes JUnit
+- Documento de alterações
+Pendências:
+- DAO/JPA completo
+- CRUD completo de Livro e Empréstimo
+- Servlets restantes
+- Configuração MySQL
